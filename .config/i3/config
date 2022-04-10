@@ -208,7 +208,7 @@ client.focused_inactive #3c3836 #3c3836 #3c3836 #3c3836
 client.unfocused #3c3836 #3c3836 #3c3836 #3c3836
 
 # custom bindings
-bindsym $mod+Shift+S exec --no-startup-id flameshot gui
+#bindsym $mod+Shift+S exec --no-startup-id flameshot gui
 
 # window rules
 for_window [class="robloxplayerlauncher.exe"] floating enable
